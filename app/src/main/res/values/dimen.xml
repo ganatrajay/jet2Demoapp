@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="DP_5">5dp</dimen>
+    <dimen name="DP_150">150dp</dimen>
+    <dimen name="DP_100">100dp</dimen>
+    <dimen name="DP_50">50dp</dimen>
+
+    <dimen name="SP_9">9sp</dimen>
+
+    <dimen name="SP_20">20sp</dimen>
+
+    <dimen name="SP_14">12sp</dimen>
+</resources>
